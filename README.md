@@ -29,7 +29,7 @@ git clone https://github.com/rajatrajput121020-prog/to-do-list.git
 cd to-do list
 ```
 
-3. Open the `index.html` file in your web browser.
+3. Open the `to-do.list.html` file in your web browser.
 
 You can also use the Live Server extension in VS Code to run the project.
 
