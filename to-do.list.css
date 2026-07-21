@@ -1,0 +1,23 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+    background-color: antiquewhite;
+}
+
+input {
+    padding: 5px;
+}
+
+button {
+    padding: 5px;
+    margin-left: 5px;
+}
+
+li {
+    margin-top: 8px;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
