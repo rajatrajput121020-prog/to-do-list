@@ -7,7 +7,6 @@ This is a simple and responsive To-Do List application built using HTML, CSS, an
 - Add new tasks
 - Mark tasks as completed
 - Delete tasks
-- Responsive design
 - Simple and clean user interface
 
 ## Technologies Used
